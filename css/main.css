@@ -4,6 +4,16 @@
    Author's custom styles
    ========================================================================== */
 
+h1 {
+    font: Blue;
+    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+    color: orange;
+}
+
+body {
+	background-color: orange;
+}
+
 
 
 
